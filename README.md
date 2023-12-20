@@ -9,3 +9,4 @@ Solving for the gradients (back Propagation):
 
 
 
+Hello from Lakshya
